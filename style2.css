@@ -1,0 +1,83 @@
+header {
+    background-color: black;
+    color: white;
+    height: 60px;
+}
+
+.container {
+    padding-top: 75px;
+    background-color: yellowgreen;
+    width: 2200px;
+    height: 2200px;
+}
+
+.avatar {
+    background-color: brown;
+    width: 170px;
+    height: 350px;
+    margin-left: 140px;
+    margin-top: 50px;
+    position: absolute;
+    border: 4px solid black;
+}
+
+.neil {
+    background-color: chartreuse;
+    width: 450px;
+    height: 150px;
+    margin-left: 400px;
+    border: 4px solid black;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nichole {
+    background-color: darkorange;
+    width: 450px;
+    height: 150px;
+    margin-left: 400px;
+    border: 4px solid black;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.jim {
+    background-color: darkgreen;
+    width: 450px;
+    height: 150px;
+    margin-left: 400px;
+    border: 4px solid black;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    margin-left: 400px;
+    font-size: xx-large;
+}
+
+.lt {
+    position: absolute;
+    margin-top: 2000;
+}
+
+.like {
+    background-color: orange;
+    width: 80px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.lower {
+    position: absolute;
+    margin-top: 30px;
+}
+
+.para {
+    position: absolute;
+    margin-top: 100px;
+}
